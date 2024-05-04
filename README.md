@@ -2,13 +2,13 @@ _INSTALL AND RUN THE PROGRAM IN LINUX, CMD, WSL AND OTHER TERMINALS_
 
 _command_
 
-pip3 install pycryptodome
-pip3 install requests
-apt install git
-apt install python
-apt install python2
-pip3 install mechanize
-git clone https://github.com/rgstools/Method-facebook
-cd Method-facebook
-python3 nnrr.py
+_pip3 install pycryptodome_
+_pip3 install requests_
+_apt install git_
+_apt install python_
+_apt install python2_
+_pip3 install mechanize_
+_git clone https://github.com/rgstools/Method-facebook_
+_cd Method-facebook_
+_python3 nnrr.py_
 
